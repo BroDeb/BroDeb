@@ -1,1 +1,1 @@
-This is for prediction of sudden death from ECG
+Hi! This is the repository of Brodie Deb, MD, postdoc fellow at Stanford Cardiology
